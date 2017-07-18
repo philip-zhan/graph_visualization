@@ -1,0 +1,155 @@
+ |-- deviceId: string (nullable = true)
+ |-- offset: long (nullable = true)
+ |-- imei: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- idfa: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- mac: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- androidId: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- imsi: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- simId: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- itunesId: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- openUdid: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- secureUdid: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- storeId: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- murmurhash: long (nullable = true)
+ |-- model: string (nullable = true)
+ |-- pix: string (nullable = true)
+ |-- os: string (nullable = true)
+ |-- net: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- carrier: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- change_date: integer (nullable = true)
+ |-- first_date: integer (nullable = true)
+
+ [h5ec7530a35cccb99829f3b0082d5b3b5,52612333,WrappedArray(),WrappedArray(fb5e1211-b365-469f-be2c-a69775b12b7a),WrappedArray(6c:70:9f:1c:e4:5c),WrappedArray(),WrappedArray(),WrappedArray(),null,null,null,null,1700427508531730829,iPad4,4,2048*1536,IOS+9.3.5,WrappedArray(),WrappedArray(),20170221,20170218]
+
+[
+tdid	h5ec7530a35cccb99829f3b0082d5b3b5,
+		52612333,
+imei	WrappedArray(),
+idfa	WrappedArray(fb5e1211-b365-469f-be2c-a69775b12b7a),
+mac 	WrappedArray(6c:70:9f:1c:e4:5c),
+andrid	WrappedArray(),
+imsi	WrappedArray(),
+simid	WrappedArray(),
+		null,
+		null,
+		null,
+		null,
+		1700427508531730829,
+		iPad4,4,
+		2048*1536,
+		IOS+9.3.5,
+		WrappedArray(),
+		WrappedArray(),
+		20170221,
+		20170218
+]
+
+[34e02896c3e5950aaece82de6afed4767,33740353,WrappedArray(867910022324828),WrappedArray(),WrappedArray(2c:5b:b8:33:0c:e5),WrappedArray(45dc61d27beb5163),WrappedArray(460020674505582),WrappedArray(89860046180787455582),null,null,null,null,1482543785221679770,OPPO:R8207,720*1280*320,Android+4.4.4,WrappedArray(lte, wifi),WrappedArray(china mobile),20170220,20170217]
+
+[
+	34e02896c3e5950aaece82de6afed4767,
+	33740353,
+	WrappedArray(867910022324828),
+	WrappedArray(),
+	WrappedArray(2c:5b:b8:33:0c:e5),
+	WrappedArray(45dc61d27beb5163),
+	WrappedArray(460020674505582),
+	WrappedArray(89860046180787455582),
+	null,
+	null,
+	null,
+	null,
+	1482543785221679770,
+	OPPO:R8207,
+	720*1280*320,
+	Android+4.4.4,
+	WrappedArray(lte, wifi),
+	WrappedArray(china mobile),
+	20170220,
+	20170217
+]
+
+[h67d05611bc3c3bffab41fddd0828cf97,92030709,WrappedArray(),WrappedArray(d4031ba7-9221-4b4c-af94-dd9b76aecc4c),WrappedArray(),WrappedArray(),WrappedArray(),WrappedArray(),null,null,null,null,-6758575676313980488,iPhone4,1,640*960,IOS+9.3.5,WrappedArray(),WrappedArray(中国移动),20170221,20170221]
+
+[
+	h67d05611bc3c3bffab41fddd0828cf97,
+	92030709,
+	WrappedArray(),
+	WrappedArray(d4031ba7-9221-4b4c-af94-dd9b76aecc4c),
+	WrappedArray(),
+	WrappedArray(),
+	WrappedArray(),
+	WrappedArray(),
+	null,
+	null,
+	null,
+	null,
+	-6758575676313980488,
+	iPhone4,1,
+	640*960,
+	IOS+9.3.5,
+	WrappedArray(),
+	WrappedArray(中国移动),
+	20170221,
+	20170221
+]
+
+[
+	heba5f97dd1864c6220c21913fa6b9382,
+	387478,
+	WrappedArray(),
+	WrappedArray(09fddcbf-64c3-407b-b649-55256ac407f0),
+	WrappedArray(),
+	WrappedArray(),
+	WrappedArray(),
+	WrappedArray(),
+	null,
+	null,
+	null,
+	null,
+	6639860437822290588,
+	iPhone6,2,
+	640*1136,
+	IOS+8.3,
+	WrappedArray(),
+	WrappedArray(中国移动),
+	20170219,
+	20170216
+]
+
+[
+	316e43bfc0b7a8c3dec51e14fca620224,
+	33788714,
+	WrappedArray(),
+	WrappedArray(),
+	WrappedArray(dc:6d:cd:88:c1:4a),
+	WrappedArray(f001c1ca64eac38),
+	WrappedArray(),
+	WrappedArray(89860035123495840659),
+	null,
+	null,
+	null,
+	null,
+	-8340607979543402570,
+	OPPO R7s,
+	1080*1800*480,
+	Android+4.4.4,
+	WrappedArray(wifi, lte),
+	WrappedArray(中国移动),
+	20170220,
+	20170217
+]
+
+
